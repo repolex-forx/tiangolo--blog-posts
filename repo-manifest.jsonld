@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/tiangolo/blog-posts/commit/a4dc3df44d74f63c992efc287302849daade3326",
       "git:hexsha": "a4dc3df44d74f63c992efc287302849daade3326",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-10T13:08:26.646489+00:00"
     },
     {
       "@id": "https://repolex.ai/r/tiangolo/blog-posts/commit/68a4a863c06c70d8d47a67ad550884829932ef24",
